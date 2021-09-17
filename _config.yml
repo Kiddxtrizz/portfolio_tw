@@ -21,10 +21,7 @@
 title: Trey W. Portfolio
 email: Williams.TreyJ@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-Experienced professional dedicated to continuous process improvement 
-in the face of rapidly evolving and changing environments. 
-Extremely skilled at creating metrics, tracking projects and collaborating with all 
-departments to identify, develop and deliver departmental objectives. 
+Welocme to my Portfolio 
 baseurl: "/portfolio_tw/" # the subpath of your site, e.g. /blog
 url: "https://kiddxtrizz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 LinkedIn_username: Trey W. 
