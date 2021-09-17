@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio
 baseurl: "/portfolio_tw/" # the subpath of your site, e.g. /blog
 url: "https://kiddxtrizz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-Kaggle_username: KiddxTrizz
+kaggle_username: KiddxTrizz
 github_username:  KiddxTrizz
 
 # Build settings
