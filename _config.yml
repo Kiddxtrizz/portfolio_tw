@@ -27,6 +27,13 @@ url: "https://kiddxtrizz.github.io" # the base hostname & protocol for your site
 twitter_username: KiddxTrizz
 github_username:  KiddxTrizz
 
+#Adding fields jekyll minima theme does not specify 
+#Defining author of the portfolio
+author: Trey Williams
+linkedin_username: trey-williams-30b19461
+youtube_username: SoUnreliable1700
+
+
 # Build settings
 #Removed minima theme as it is not a regular theme 
 #theme: minima
